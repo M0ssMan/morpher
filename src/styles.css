@@ -1,0 +1,9 @@
+.resize-handle {
+  height: 20px;
+  width: 20px;
+  background-color: red;
+  cursor: nwse-resize;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
